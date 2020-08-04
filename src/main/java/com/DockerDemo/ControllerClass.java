@@ -8,7 +8,7 @@ public class ControllerClass {
 	
 	@GetMapping("/")
 	public String name() {
-		return "This is Heloow";
+		return "This is Heloow class";
 	}
 
 }
