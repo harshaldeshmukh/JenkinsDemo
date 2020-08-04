@@ -11,7 +11,7 @@
 	<groupId>com.DockerDemo</groupId>
 	<artifactId>DockerDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>DockerDemo</name>
 	<description>DockerDemo</description>
 
